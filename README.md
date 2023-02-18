@@ -2,3 +2,5 @@
 update
 このリポジトリはGit動画講座用です．
 conflict
+new update
+
